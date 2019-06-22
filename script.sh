@@ -4,7 +4,7 @@
 # Autor: Helio Faria
 # Data: 06-04-2019
 # Versao: 1.1
-# Revisao:1
+# Revisao:2
 ###################################################################
 # Programa para executar backup diario das bases do MySQL deste servidor.
 # Faz autenticacao com usuario Backup.
